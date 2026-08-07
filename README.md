@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rutuja-45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rutuja-45/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
