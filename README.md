@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rutuja-45/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/rutuja-45/DSA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rutuja-45/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
