@@ -8,9 +8,8 @@ class Solution {
             {
                 count++;//1
             }
-            else if(nums[i]==0)
+            else 
             {
-               maxcount = Math.max(maxcount, count);
                 count=0;
             }
             maxcount = Math.max(maxcount, count);
