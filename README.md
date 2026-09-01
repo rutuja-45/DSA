@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/rutuja-45/DSA/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/rutuja-45/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/rutuja-45/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rutuja-45/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rutuja-45/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rutuja-45/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rutuja-45/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/rutuja-45/DSA/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/rutuja-45/DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rutuja-45/DSA/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
