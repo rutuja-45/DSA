@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rutuja-45/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/rutuja-45/DSA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/rutuja-45/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rutuja-45/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuja-45/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/rutuja-45/DSA/tree/master/1512-number-of-good-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rutuja-45/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rutuja-45/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/rutuja-45/DSA/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/rutuja-45/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rutuja-45/DSA/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/rutuja-45/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rutuja-45/DSA/tree/master/1929-concatenation-of-array) |
