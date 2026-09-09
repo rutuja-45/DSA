@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rutuja-45/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rutuja-45/DSA/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/rutuja-45/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rutuja-45/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rutuja-45/DSA/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rutuja-45/DSA/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/rutuja-45/DSA/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
