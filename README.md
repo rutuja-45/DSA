@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rutuja-45/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rutuja-45/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rutuja-45/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/rutuja-45/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rutuja-45/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rutuja-45/DSA/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rutuja-45/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rutuja-45/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rutuja-45/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuja-45/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuja-45/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rutuja-45/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rutuja-45/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rutuja-45/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rutuja-45/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rutuja-45/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rutuja-45/DSA/tree/master/0904-fruit-into-baskets) |
@@ -105,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rutuja-45/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/rutuja-45/DSA/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rutuja-45/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rutuja-45/DSA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
