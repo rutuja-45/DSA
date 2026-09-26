@@ -12,7 +12,7 @@ class Solution {
                 continue;
             }
             int j=i+1;
-            int k=nums.length-1;
+            int k=n-1;
               while(j<k) 
               {
                     int sum= nums[i]+nums[j]+nums[k];
